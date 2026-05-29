@@ -93,6 +93,6 @@ Possuo 14 certificações pela Alura e Udemy, incluindo formações em Spring Bo
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/MarceloAraujo
+- LinkedIn: https://www.linkedin.com/in/MarceloAraujo](https://www.linkedin.com/in/marcelo-araujo-54b0b9285/
 - GitHub: https://github.com/CeloAraujo
 - E-mail: celoparaujo99@gmail.com
