@@ -6,7 +6,7 @@ Atualmente trabalho com desenvolvimento e evolução de sistemas corporativos ut
 
 ## Sobre mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas pelo UniCeub e atualmente curso pós-graduação em Engenharia de Software e Engenharia de IA Aplicada. Tenho interesse em desenvolvimento full stack, arquitetura de software, APIs, automação, inteligência artificial aplicada e boas práticas de engenharia.
+Sou formado em Análise e Desenvolvimento de Sistemas pelo UniCeub, pós-graduado em Engenharia de Software pelo UniCeub e atualmente curso pós-graduação em Engenharia de IA Aplicada pela UniPDS. Tenho interesse em desenvolvimento full stack, arquitetura de software, APIs, automação, inteligência artificial aplicada e boas práticas de engenharia.
 
 Busco construir soluções robustas, escaláveis e bem estruturadas, sempre considerando qualidade de código, clareza, manutenibilidade e impacto real para o negócio.
 
@@ -35,7 +35,6 @@ Site: https://www.auditcar.com.br
 - Java
 - SQL
 - Python
-- JavaScript
 
 ### Front-end
 - Angular
@@ -78,9 +77,9 @@ Plataforma corporativa para gestão de serviços internos, organização de dado
 
 ## Formação
 
-- Pós-graduação em Engenharia de IA Aplicada — UniPDS  
-- Pós-graduação em Engenharia de Software — UniCeub  
-- Análise e Desenvolvimento de Sistemas — UniCeub
+- Pós-graduação em Engenharia de IA Aplicada — UniPDS | Mai 2026 – Atualmente
+- Pós-graduação em Engenharia de Software — UniCeub | Set 2025 – Jun 2026
+- Análise e Desenvolvimento de Sistemas — UniCeub | Fev 2023 – Jul 2025
 
 ## Certificações
 
@@ -89,7 +88,7 @@ Possuo 14 certificações pela Alura e Udemy, incluindo formações em Spring Bo
 ## Idiomas
 
 - Português: nativo
-- Inglês: avançado
+- Inglês: avançado — formado na Thomas Jefferson
 
 ## Contato
 
